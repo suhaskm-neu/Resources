@@ -2,4 +2,4 @@
 All Resources in one page
 
 
-https://www.youtube.com/watch?v=-lcWV4wkHsk
+CUDA Programming Basics: https://www.youtube.com/watch?v=-lcWV4wkHsk
